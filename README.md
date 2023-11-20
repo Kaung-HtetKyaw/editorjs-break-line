@@ -17,7 +17,7 @@ Break Line and divider Tool for [Editor.js](https://editorjs.io).
 Get the package
 
 ```shell
-$ npm i --save-dev @pawritharya/editorjs-break-line
+$ npm i @pawritharya/editorjs-break-line
 ```
 
 Include module at your application
