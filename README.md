@@ -17,23 +17,13 @@ Break Line and divider Tool for [Editor.js](https://editorjs.io).
 Get the package
 
 ```shell
-$ npm i --save-dev editorjs-break-line
+$ npm i --save-dev @pawritharya/editorjs-break-line
 ```
 
 Include module at your application
 
 ```javascript
-import BreakLine from 'editorjs-break-line';
-```
-
-### Load from CDN
-
-You can load a specific version of the package from [jsDelivr CDN](https://www.jsdelivr.com/package/npm/editorjs-break-line).
-
-Require this script on a page with Editor.js.
-
-```html
-<script src="https://cdn.jsdelivr.net/npm/editorjs-break-line"></script>
+import BreakLine from '@pawritharya/editorjs-break-line';
 ```
 
 ## Usage
