@@ -1,5 +1,5 @@
 {
-  "name": "editorjs-line-break",
+  "name": "editorjs-break-line",
   "version": "0.0.1",
   "keywords": [
     "tool",
@@ -8,7 +8,7 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "BreakLine and divider Tool for Editor.js",
+  "description": "BreakLine Tool for Editor.js",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kommitters/editorjs-break-line.git"
+    "url": "git+https://github.com/Kaung-HtetKyaw/editorjs-break-line.git"
   },
   "author": {
     "name": "Kaung Htet Kyaw Open Source",
@@ -25,9 +25,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kommitters/editorjs-break-line/issues"
+    "url": "https://github.com/Kaung-HtetKyaw/editorjs-break-line/issues"
   },
-  "homepage": "https://github.com/kommitters/editorjs-break-line#readme",
+  "homepage": "https://github.com/Kaung-HtetKyaw/editorjs-break-line#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/plugin-transform-runtime": "^7.2.0",
